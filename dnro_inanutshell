@@ -1,0 +1,2 @@
+def denaro():
+  print("Iam Denaro, I am a donkey")
